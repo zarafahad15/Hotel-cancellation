@@ -21,7 +21,7 @@ Features
 Installation
 	1.	Clone the repository
 
-git clone https://github.com/zarafahad15/hotel-cancellation-system.git
+git clone https://github.com/zarafahad15/hotel-cancellation.git
 
 	2.	Install dependencies
 
